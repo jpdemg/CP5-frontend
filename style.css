@@ -1,0 +1,4 @@
+.texto-marrom { color: #8b5e34; }
+.botao-marrom { background-color: #8b5e34; color: white; }
+.foto-cliente { width: 28px; height: 28px; }
+.carousel-indicators [data-bs-target] { background-color: #8b5e34; }
